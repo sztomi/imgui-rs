@@ -1,4 +1,11 @@
-# imgui-rs: Rust bindings for Dear ImGui
+# imgui-rs-dk: Rust bindings for Dear ImGui
+
+*This is a (temporary) fork of imgui-rs which aims to run ahead and add support for the
+imgui docking branch. Upstream imgui-rs only wants to support stable features, which is
+understandable. This fork exists for those of us who want to use experimental features. When
+imgui merges the docking branch, I will try to contribute the changes to upstream imgui-rs.
+When imgui-rs integrates the docking features (either from this fork or otherwise), this fork
+be discontinued.*
 
 **Still fairly experimental!**
 
