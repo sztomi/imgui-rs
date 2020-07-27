@@ -1,11 +1,11 @@
 [package]
-name = "imgui"
+name = "imgui-dk"
 version = "0.4.0"
 edition = "2018"
-authors = ["Joonas Javanainen <joonas.javanainen@gmail.com>", "imgui-rs contributors"]
-description = "High-level Rust bindings to dear imgui"
-homepage = "https://github.com/Gekkio/imgui-rs"
-repository = "https://github.com/Gekkio/imgui-rs"
+authors = ["Joonas Javanainen <joonas.javanainen@gmail.com>", "imgui-rs contributors", "Tamás Szelei <szelei.t@gmail.com>"]
+description = "High-level Rust bindings to dear imgui - docking branch"
+homepage = "https://github.com/sztomi/imgui-rs-dk"
+repository = "https://github.com/sztomi/imgui-rs-dk"
 license = "MIT/Apache-2.0"
 categories = ["gui", "api-bindings"]
 readme = "README.markdown"
